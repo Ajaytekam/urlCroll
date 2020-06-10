@@ -1,6 +1,6 @@
 # urlCroll.py
 
-A simple python script which crawl all the anchor tab in a web page. I use this on Offline CTF chellanges (Vulnerable VMs), because the other advanced tools takes a bit longer to complete scan and also generate lots of traffic. 
+A simple python script which crawl all the anchor tab in a web page. I use this for Offline CTF chellenges (Vulnerable VMs), because the other advanced tools takes a bit longer to finish the scan. 
  
 **Usage :**  
 
